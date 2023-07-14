@@ -168,3 +168,34 @@ main{
     margin-left: 198px;
     margin-top: 129.5px;
 }
+
+#professional-challenges{
+    width: 100%;
+}
+
+#professional-challenges h2{
+    color: #33A8DB;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 32px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 6.08px;
+    width: 752px;
+    margin: 75px auto 32px;
+}
+
+#professional-challenges img{
+    display: flex;
+    margin: 0 auto 40px;
+}
+
+#professional-challenges p{
+    width: 792px;
+    color: #FFF;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 400;
+    margin: auto;
+}
