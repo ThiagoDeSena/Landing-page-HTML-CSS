@@ -13,7 +13,7 @@
         width: auto;
         height: auto;
         margin:  auto 10px;
-        
+        display: inline-block;
     }
     .banner-content p{
         width: auto;
